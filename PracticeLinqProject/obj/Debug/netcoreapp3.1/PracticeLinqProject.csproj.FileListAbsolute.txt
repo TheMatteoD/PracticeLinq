@@ -1,0 +1,14 @@
+D:\Repos\PracticeLinq\PracticeLinqProject\bin\Debug\netcoreapp3.1\PracticeLinqProject.exe
+D:\Repos\PracticeLinq\PracticeLinqProject\bin\Debug\netcoreapp3.1\PracticeLinqProject.deps.json
+D:\Repos\PracticeLinq\PracticeLinqProject\bin\Debug\netcoreapp3.1\PracticeLinqProject.runtimeconfig.json
+D:\Repos\PracticeLinq\PracticeLinqProject\bin\Debug\netcoreapp3.1\PracticeLinqProject.runtimeconfig.dev.json
+D:\Repos\PracticeLinq\PracticeLinqProject\bin\Debug\netcoreapp3.1\PracticeLinqProject.dll
+D:\Repos\PracticeLinq\PracticeLinqProject\bin\Debug\netcoreapp3.1\PracticeLinqProject.pdb
+D:\Repos\PracticeLinq\PracticeLinqProject\obj\Debug\netcoreapp3.1\PracticeLinqProject.csproj.AssemblyReference.cache
+D:\Repos\PracticeLinq\PracticeLinqProject\obj\Debug\netcoreapp3.1\PracticeLinqProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\PracticeLinq\PracticeLinqProject\obj\Debug\netcoreapp3.1\PracticeLinqProject.AssemblyInfoInputs.cache
+D:\Repos\PracticeLinq\PracticeLinqProject\obj\Debug\netcoreapp3.1\PracticeLinqProject.AssemblyInfo.cs
+D:\Repos\PracticeLinq\PracticeLinqProject\obj\Debug\netcoreapp3.1\PracticeLinqProject.csproj.CoreCompileInputs.cache
+D:\Repos\PracticeLinq\PracticeLinqProject\obj\Debug\netcoreapp3.1\PracticeLinqProject.dll
+D:\Repos\PracticeLinq\PracticeLinqProject\obj\Debug\netcoreapp3.1\PracticeLinqProject.pdb
+D:\Repos\PracticeLinq\PracticeLinqProject\obj\Debug\netcoreapp3.1\PracticeLinqProject.genruntimeconfig.cache
